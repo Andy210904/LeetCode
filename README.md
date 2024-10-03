@@ -9,6 +9,7 @@ Codes of all the problems solved
 | [0539-minimum-time-difference](https://github.com/Andy210904/LeetCode/tree/master/0539-minimum-time-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/Andy210904/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Andy210904/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1694-make-sum-divisible-by-p](https://github.com/Andy210904/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Andy210904/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2411-spiral-matrix-iv](https://github.com/Andy210904/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Andy210904/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -17,6 +18,7 @@ Codes of all the problems solved
 | ------- |
 | [1256-rank-transform-of-an-array](https://github.com/Andy210904/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Andy210904/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1694-make-sum-divisible-by-p](https://github.com/Andy210904/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Andy210904/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Andy210904/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Linked List
@@ -94,4 +96,8 @@ Codes of all the problems solved
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Andy210904/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [1694-make-sum-divisible-by-p](https://github.com/Andy210904/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 <!---LeetCode Topics End-->
