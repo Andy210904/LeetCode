@@ -8,6 +8,7 @@ Codes of all the problems solved
 | ------- |
 | [0539-minimum-time-difference](https://github.com/Andy210904/LeetCode/tree/master/0539-minimum-time-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/Andy210904/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Andy210904/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Andy210904/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Andy210904/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Andy210904/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -36,6 +37,7 @@ Codes of all the problems solved
 ## Depth-First Search
 |  |
 | ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Andy210904/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1484-linked-list-in-binary-tree](https://github.com/Andy210904/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -73,6 +75,7 @@ Codes of all the problems solved
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Andy210904/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/Andy210904/LeetCode/tree/master/0539-minimum-time-difference) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Andy210904/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Andy210904/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Counting
 |  |
@@ -100,4 +103,8 @@ Codes of all the problems solved
 |  |
 | ------- |
 | [1694-make-sum-divisible-by-p](https://github.com/Andy210904/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
+## Trie
+|  |
+| ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Andy210904/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 <!---LeetCode Topics End-->
