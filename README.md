@@ -110,4 +110,8 @@ Codes of all the problems solved
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Andy210904/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Andy210904/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
