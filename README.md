@@ -81,6 +81,7 @@ Codes of all the problems solved
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Andy210904/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Andy210904/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2580-circular-sentence](https://github.com/Andy210904/LeetCode/tree/master/2580-circular-sentence) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Andy210904/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Counting
 |  |
 | ------- |
