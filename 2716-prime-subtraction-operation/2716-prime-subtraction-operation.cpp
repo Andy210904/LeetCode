@@ -3,7 +3,6 @@ public:
     bool primeSubOperation(vector<int>& nums) {
         vector<int> primes = sieve(1000);  
         for(int i = nums.size() - 2; i >= 0; i--) {
-
             if(nums[i] >= nums[i + 1]) {
                 int diff = nums[i] - nums[i + 1];
                 int pri = findPrimeJustGreaterThan(primes, diff);
@@ -17,8 +16,6 @@ public:
         }
         return true;
     }
-
-private:
     vector<int> sieve(int n) {
         vector<bool> isPrime(n + 1, true);
         isPrime[0] = isPrime[1] = false;
@@ -38,7 +35,6 @@ private:
         return primes;
     }
     int findPrimeJustGreaterThan(const vector<int>& primes, int limit) {
-        // Find the smallest prime that is greater than the limit
         int left = 0, right = primes.size() - 1;
         while (left <= right) {
             int mid = left + (right - left) / 2;
@@ -48,8 +44,6 @@ private:
                 left = mid + 1;
             }
         }
-
-        cout<<primes[left]<<endl;
         return primes[left];
     }
 };
