@@ -18,6 +18,7 @@ Codes of all the problems solved
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Andy210904/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Andy210904/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Andy210904/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1917-maximum-average-pass-ratio](https://github.com/Andy210904/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1940-maximum-xor-for-each-query](https://github.com/Andy210904/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Andy210904/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2411-spiral-matrix-iv](https://github.com/Andy210904/LeetCode/tree/master/2411-spiral-matrix-iv) |
@@ -171,11 +172,13 @@ Codes of all the problems solved
 ## Greedy
 |  |
 | ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/Andy210904/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Andy210904/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/Andy210904/LeetCode/tree/master/2716-prime-subtraction-operation) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/Andy210904/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Andy210904/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Andy210904/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/Andy210904/LeetCode/tree/master/2868-continuous-subarrays) |
