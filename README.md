@@ -10,6 +10,7 @@ Codes of all the problems solved
 | [0046-permutations](https://github.com/Andy210904/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Andy210904/LeetCode/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/Andy210904/LeetCode/tree/master/0090-subsets-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Andy210904/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/Andy210904/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0643-maximum-average-subarray-i](https://github.com/Andy210904/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Andy210904/LeetCode/tree/master/0724-find-pivot-index) |
@@ -136,6 +137,7 @@ Codes of all the problems solved
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Andy210904/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/Andy210904/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Andy210904/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1256-rank-transform-of-an-array](https://github.com/Andy210904/LeetCode/tree/master/1256-rank-transform-of-an-array) |
@@ -199,6 +201,7 @@ Codes of all the problems solved
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Andy210904/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/Andy210904/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Andy210904/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Andy210904/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -235,4 +238,12 @@ Codes of all the problems solved
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/Andy210904/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Andy210904/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Andy210904/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Andy210904/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
