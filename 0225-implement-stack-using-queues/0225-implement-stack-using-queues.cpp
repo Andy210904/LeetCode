@@ -1,11 +1,12 @@
 class MyStack {
 public:
-    MyStack() {}
-
+    queue<int> temp1;
+    queue<int> temp2;
+    MyStack() {
+    }
     void push(int x) {
         temp1.push(x);
     }
-    
     int pop() {
         if (temp1.empty()) return -1; 
 
@@ -36,6 +37,5 @@ public:
     bool empty() {
         return temp1.empty();
     }
-    queue<int> temp1;
-    queue<int> temp2;
+
 };
