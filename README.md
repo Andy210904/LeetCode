@@ -240,6 +240,7 @@ Codes of all the problems solved
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Andy210904/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [2868-continuous-subarrays](https://github.com/Andy210904/LeetCode/tree/master/2868-continuous-subarrays) |
 ## Ordered Set
 |  |
@@ -252,6 +253,7 @@ Codes of all the problems solved
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Andy210904/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Andy210904/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Andy210904/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
@@ -273,4 +275,8 @@ Codes of all the problems solved
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Andy210904/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Andy210904/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
