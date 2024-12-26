@@ -28,6 +28,7 @@ Codes of all the problems solved
 | [1786-count-the-number-of-consistent-strings](https://github.com/Andy210904/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/Andy210904/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1940-maximum-xor-for-each-query](https://github.com/Andy210904/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Andy210904/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/Andy210904/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Andy210904/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Andy210904/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -118,6 +119,7 @@ Codes of all the problems solved
 | [0241-different-ways-to-add-parentheses](https://github.com/Andy210904/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/Andy210904/LeetCode/tree/master/0539-minimum-time-difference) |
 | [1635-number-of-good-pairs](https://github.com/Andy210904/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Andy210904/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2716-prime-subtraction-operation](https://github.com/Andy210904/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Andy210904/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Andy210904/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -132,6 +134,7 @@ Codes of all the problems solved
 | [0090-subsets-ii](https://github.com/Andy210904/LeetCode/tree/master/0090-subsets-ii) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Andy210904/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1940-maximum-xor-for-each-query](https://github.com/Andy210904/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Andy210904/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Andy210904/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Andy210904/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/Andy210904/LeetCode/tree/master/3394-minimum-array-end) |
@@ -257,6 +260,7 @@ Codes of all the problems solved
 | [0090-subsets-ii](https://github.com/Andy210904/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Andy210904/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/Andy210904/LeetCode/tree/master/0494-target-sum) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Andy210904/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Queue
 |  |
 | ------- |
@@ -313,4 +317,12 @@ Codes of all the problems solved
 |  |
 | ------- |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Andy210904/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Andy210904/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Andy210904/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
