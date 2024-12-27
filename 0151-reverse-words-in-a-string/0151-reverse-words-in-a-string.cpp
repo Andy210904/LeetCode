@@ -9,7 +9,7 @@ public:
                 ind--;
                 continue;
             }
-            while(ind >=0 && (isalpha(s[ind]) || isdigit(s[ind]))){
+            while(ind >=0 && isalnum(s[ind])){
                 temp += s[ind];
                 ind--;
             }
