@@ -144,6 +144,7 @@ Codes of all the problems solved
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Andy210904/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0131-palindrome-partitioning](https://github.com/Andy210904/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Andy210904/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Andy210904/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -200,6 +201,7 @@ Codes of all the problems solved
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Andy210904/LeetCode/tree/master/0014-longest-common-prefix) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Andy210904/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Database
 |  |
