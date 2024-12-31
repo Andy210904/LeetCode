@@ -228,6 +228,7 @@ Codes of all the problems solved
 | [1415-students-and-examinations](https://github.com/Andy210904/LeetCode/tree/master/1415-students-and-examinations) |
 | [1541-top-travellers](https://github.com/Andy210904/LeetCode/tree/master/1541-top-travellers) |
 | [1877-find-followers-count](https://github.com/Andy210904/LeetCode/tree/master/1877-find-followers-count) |
+| [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/Andy210904/LeetCode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/Andy210904/LeetCode/tree/master/2127-employees-whose-manager-left-the-company) |
 ## Sliding Window
 |  |
