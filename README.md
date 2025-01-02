@@ -178,6 +178,7 @@ Codes of all the problems solved
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Andy210904/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/Andy210904/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Andy210904/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0539-minimum-time-difference](https://github.com/Andy210904/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Andy210904/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -266,6 +267,7 @@ Codes of all the problems solved
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Andy210904/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/Andy210904/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Andy210904/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1917-maximum-average-pass-ratio](https://github.com/Andy210904/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Andy210904/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -330,6 +332,7 @@ Codes of all the problems solved
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Andy210904/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0295-find-median-from-data-stream](https://github.com/Andy210904/LeetCode/tree/master/0295-find-median-from-data-stream) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -354,4 +357,9 @@ Codes of all the problems solved
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Andy210904/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0295-find-median-from-data-stream](https://github.com/Andy210904/LeetCode/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Andy210904/LeetCode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
