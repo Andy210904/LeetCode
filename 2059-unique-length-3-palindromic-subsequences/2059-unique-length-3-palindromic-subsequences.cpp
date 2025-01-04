@@ -1,27 +1,33 @@
 class Solution {
 public:
-    int countPalindromicSubsequence(string inputString) {
-        vector<int> minExist(26, INT_MAX);
-        vector<int> maxExist(26, INT_MIN);
-
-        for(int i = 0; i < inputString.size(); i++) {
-            int charIndex = inputString[i] - 'a';
-            minExist[charIndex] = min(minExist[charIndex], i);
-            maxExist[charIndex] = max(maxExist[charIndex], i);
+    int countPalindromicSubsequence(string s) {
+        vector<int> alpha(26,0);
+        for(int i=0;i<s.size();i++){
+            alpha[s[i] - 'a']++;
         }
-
-        int uniqueCount = 0;
-
-        for (int charIndex = 0; charIndex < 26; charIndex++) {
-            if (minExist[charIndex] == INT_MAX || maxExist[charIndex] == INT_MIN) {
-                continue; 
+        int count = 0;
+        for(int i=0;i<26;i++){
+            int left = 0;
+            int right = s.size()-1;
+            unordered_set<char> temp;
+            if(alpha[i] > 1){
+                while(s[left] != (i+'a')){
+                    left++;
+                }
+                while(s[right] != (i+'a')){
+                    right--;
+                }
+                for(int j=left+1;j<right;j++){
+                    if(temp.find(s[j]) == temp.end()){
+                        temp.insert(s[j]);
+                        count++;
+                    }
+                    else{
+                        continue;
+                    }
+                }
             }
-            unordered_set<char> uniqueCharsBetween;
-            for (int j = minExist[charIndex] + 1; j < maxExist[charIndex]; j++) {
-                uniqueCharsBetween.insert(inputString[j]);
-            }
-            uniqueCount += uniqueCharsBetween.size();
         }
-        return uniqueCount;
+        return count;
     }
 };
