@@ -20,6 +20,7 @@ Codes of all the problems solved
 | [0643-maximum-average-subarray-i](https://github.com/Andy210904/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Andy210904/LeetCode/tree/master/0724-find-pivot-index) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Andy210904/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0952-word-subsets](https://github.com/Andy210904/LeetCode/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/Andy210904/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Andy210904/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1256-rank-transform-of-an-array](https://github.com/Andy210904/LeetCode/tree/master/1256-rank-transform-of-an-array) |
@@ -63,6 +64,7 @@ Codes of all the problems solved
 | [0013-roman-to-integer](https://github.com/Andy210904/LeetCode/tree/master/0013-roman-to-integer) |
 | [0347-top-k-frequent-elements](https://github.com/Andy210904/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Andy210904/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0952-word-subsets](https://github.com/Andy210904/LeetCode/tree/master/0952-word-subsets) |
 | [1256-rank-transform-of-an-array](https://github.com/Andy210904/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Andy210904/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/Andy210904/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -177,6 +179,7 @@ Codes of all the problems solved
 | [0151-reverse-words-in-a-string](https://github.com/Andy210904/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Andy210904/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/Andy210904/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0952-word-subsets](https://github.com/Andy210904/LeetCode/tree/master/0952-word-subsets) |
 | [1205-defanging-an-ip-address](https://github.com/Andy210904/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Andy210904/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Andy210904/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
