@@ -172,6 +172,7 @@ Codes of all the problems solved
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Andy210904/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Andy210904/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Andy210904/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2509-minimize-xor](https://github.com/Andy210904/LeetCode/tree/master/2509-minimize-xor) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Andy210904/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/Andy210904/LeetCode/tree/master/3394-minimum-array-end) |
 ## String
@@ -314,6 +315,7 @@ Codes of all the problems solved
 | [1917-maximum-average-pass-ratio](https://github.com/Andy210904/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Andy210904/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Andy210904/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
+| [2509-minimize-xor](https://github.com/Andy210904/LeetCode/tree/master/2509-minimize-xor) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Andy210904/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/Andy210904/LeetCode/tree/master/2716-prime-subtraction-operation) |
 ## Heap (Priority Queue)
