@@ -44,6 +44,7 @@ Codes of all the problems solved
 | [2358-number-of-ways-to-split-array](https://github.com/Andy210904/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2411-spiral-matrix-iv](https://github.com/Andy210904/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2465-shifting-letters-ii](https://github.com/Andy210904/LeetCode/tree/master/2465-shifting-letters-ii) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Andy210904/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Andy210904/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Andy210904/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Andy210904/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -173,6 +174,7 @@ Codes of all the problems solved
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Andy210904/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Andy210904/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2509-minimize-xor](https://github.com/Andy210904/LeetCode/tree/master/2509-minimize-xor) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Andy210904/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Andy210904/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/Andy210904/LeetCode/tree/master/3394-minimum-array-end) |
 ## String
@@ -436,4 +438,8 @@ Codes of all the problems solved
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Andy210904/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Andy210904/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
