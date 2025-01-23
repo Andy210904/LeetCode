@@ -25,6 +25,7 @@ Codes of all the problems solved
 | [1063-best-sightseeing-pair](https://github.com/Andy210904/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1256-rank-transform-of-an-array](https://github.com/Andy210904/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Andy210904/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1396-count-servers-that-communicate](https://github.com/Andy210904/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1524-string-matching-in-an-array](https://github.com/Andy210904/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Andy210904/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Andy210904/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -110,6 +111,7 @@ Codes of all the problems solved
 | [0145-binary-tree-postorder-traversal](https://github.com/Andy210904/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Andy210904/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Andy210904/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1396-count-servers-that-communicate](https://github.com/Andy210904/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/Andy210904/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Andy210904/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Andy210904/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -118,6 +120,7 @@ Codes of all the problems solved
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Andy210904/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1396-count-servers-that-communicate](https://github.com/Andy210904/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/Andy210904/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1876-map-of-highest-peak](https://github.com/Andy210904/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Andy210904/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -136,6 +139,7 @@ Codes of all the problems solved
 ## Matrix
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/Andy210904/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/Andy210904/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/Andy210904/LeetCode/tree/master/2145-grid-game) |
 | [2411-spiral-matrix-iv](https://github.com/Andy210904/LeetCode/tree/master/2411-spiral-matrix-iv) |
@@ -217,6 +221,7 @@ Codes of all the problems solved
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Andy210904/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1396-count-servers-that-communicate](https://github.com/Andy210904/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Andy210904/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Andy210904/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/Andy210904/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -445,4 +450,8 @@ Codes of all the problems solved
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Andy210904/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Union Find
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/Andy210904/LeetCode/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
