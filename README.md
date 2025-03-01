@@ -58,6 +58,7 @@ Codes of all the problems solved
 | [2465-shifting-letters-ii](https://github.com/Andy210904/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Andy210904/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Andy210904/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2551-apply-operations-to-an-array](https://github.com/Andy210904/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Andy210904/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Andy210904/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Andy210904/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -184,6 +185,7 @@ Codes of all the problems solved
 | [2048-build-array-from-permutation](https://github.com/Andy210904/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Andy210904/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2411-spiral-matrix-iv](https://github.com/Andy210904/LeetCode/tree/master/2411-spiral-matrix-iv) |
+| [2551-apply-operations-to-an-array](https://github.com/Andy210904/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Andy210904/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Andy210904/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Andy210904/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -498,6 +500,7 @@ Codes of all the problems solved
 | [0005-longest-palindromic-substring](https://github.com/Andy210904/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Andy210904/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0295-find-median-from-data-stream](https://github.com/Andy210904/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [2551-apply-operations-to-an-array](https://github.com/Andy210904/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 ## Data Stream
 |  |
 | ------- |
