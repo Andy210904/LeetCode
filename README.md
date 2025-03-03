@@ -51,6 +51,7 @@ Codes of all the problems solved
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Andy210904/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2145-grid-game](https://github.com/Andy210904/LeetCode/tree/master/2145-grid-game) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Andy210904/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Andy210904/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Andy210904/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/Andy210904/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2411-spiral-matrix-iv](https://github.com/Andy210904/LeetCode/tree/master/2411-spiral-matrix-iv) |
@@ -186,6 +187,7 @@ Codes of all the problems solved
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/Andy210904/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Andy210904/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Andy210904/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2411-spiral-matrix-iv](https://github.com/Andy210904/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2551-apply-operations-to-an-array](https://github.com/Andy210904/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Andy210904/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -502,6 +504,7 @@ Codes of all the problems solved
 | [0005-longest-palindromic-substring](https://github.com/Andy210904/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Andy210904/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0295-find-median-from-data-stream](https://github.com/Andy210904/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Andy210904/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Andy210904/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Andy210904/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Data Stream
