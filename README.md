@@ -78,6 +78,7 @@ Codes of all the problems solved
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Andy210904/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3429-special-array-i](https://github.com/Andy210904/LeetCode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Andy210904/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3483-alternating-groups-ii](https://github.com/Andy210904/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Andy210904/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Andy210904/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Andy210904/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -377,6 +378,7 @@ Codes of all the problems solved
 | [2868-continuous-subarrays](https://github.com/Andy210904/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Andy210904/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Andy210904/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3483-alternating-groups-ii](https://github.com/Andy210904/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Andy210904/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Binary Search
 |  |
