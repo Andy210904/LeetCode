@@ -25,6 +25,7 @@ Codes of all the problems solved
 | [0952-word-subsets](https://github.com/Andy210904/LeetCode/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/Andy210904/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Andy210904/LeetCode/tree/master/1063-best-sightseeing-pair) |
+| [1185-find-in-mountain-array](https://github.com/Andy210904/LeetCode/tree/master/1185-find-in-mountain-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Andy210904/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Andy210904/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/Andy210904/LeetCode/tree/master/1364-tuple-with-same-product) |
@@ -433,6 +434,7 @@ Codes of all the problems solved
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Andy210904/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Andy210904/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [1185-find-in-mountain-array](https://github.com/Andy210904/LeetCode/tree/master/1185-find-in-mountain-array) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Andy210904/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Andy210904/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Andy210904/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -605,4 +607,8 @@ Codes of all the problems solved
 | [0098-validate-binary-search-tree](https://github.com/Andy210904/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Andy210904/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Andy210904/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+## Interactive
+|  |
+| ------- |
+| [1185-find-in-mountain-array](https://github.com/Andy210904/LeetCode/tree/master/1185-find-in-mountain-array) |
 <!---LeetCode Topics End-->
