@@ -281,6 +281,7 @@ Codes of all the problems solved
 | [0008-string-to-integer-atoi](https://github.com/Andy210904/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Andy210904/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Andy210904/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0044-wildcard-matching](https://github.com/Andy210904/LeetCode/tree/master/0044-wildcard-matching) |
 | [0131-palindrome-partitioning](https://github.com/Andy210904/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Andy210904/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Andy210904/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -351,6 +352,7 @@ Codes of all the problems solved
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Andy210904/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0044-wildcard-matching](https://github.com/Andy210904/LeetCode/tree/master/0044-wildcard-matching) |
 | [0131-palindrome-partitioning](https://github.com/Andy210904/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Andy210904/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0494-target-sum](https://github.com/Andy210904/LeetCode/tree/master/0494-target-sum) |
@@ -368,6 +370,7 @@ Codes of all the problems solved
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Andy210904/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Andy210904/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/Andy210904/LeetCode/tree/master/0044-wildcard-matching) |
 | [0143-reorder-list](https://github.com/Andy210904/LeetCode/tree/master/0143-reorder-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Andy210904/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Memoization
@@ -439,6 +442,7 @@ Codes of all the problems solved
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Andy210904/LeetCode/tree/master/0044-wildcard-matching) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Andy210904/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1502-construct-k-palindrome-strings](https://github.com/Andy210904/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/Andy210904/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
