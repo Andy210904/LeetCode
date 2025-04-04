@@ -28,8 +28,6 @@ class Solution {
                 break;
             }
         }
-
-        // If target is at the peak index
         if (target == mountainArr.get(peak)) {
             return peak;
         } 
