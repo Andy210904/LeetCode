@@ -1,31 +1,23 @@
 class Solution {
 public:
+    const int MOD = 1e9 + 7;
+    long long power(long long base, long long exp) {
+        long long result = 1;
+        base %= MOD;
+        while (exp > 0) {
+            if (exp % 2 == 1) {
+                result = (result * base) % MOD;
+            }
+            base = (base * base) % MOD;
+            exp /= 2;
+        }
+        return result;
+    }
     int countGoodNumbers(long long n) {
-        int MOD = pow(10,9) + 7;
-        long base = 4;
-        long exp = n/2;
-        long res = 1;
-        while(exp != 0){
-            if(exp % 2 == 1){
-                res *= base;
-            }
-            base = (base*base) % MOD;
-            exp = exp/2;
-            res = res % MOD;
-        }
-        int res1 =res;
-        base = 5;
-        exp = (n-(n/2));
-        res = 1;
-        while(exp != 0){
-            if(exp % 2 == 1){
-                res *= base;
-            }
-            base = (base*base) % MOD;
-            exp = exp/2;
-            res = res % MOD;
-        }
-        return (res*res1) % MOD;
-
+        long long evenPositions = n / 2;
+        long long oddPositions = n - evenPositions;
+        long long evenPow = power(5, oddPositions); 
+        long long oddPow = power(4, evenPositions);
+        return (evenPow * oddPow) % MOD;
     }
 };
