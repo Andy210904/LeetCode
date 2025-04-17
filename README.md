@@ -57,6 +57,7 @@ Codes of all the problems solved
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Andy210904/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2262-solving-questions-with-brainpower](https://github.com/Andy210904/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Andy210904/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Andy210904/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Andy210904/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/Andy210904/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2411-spiral-matrix-iv](https://github.com/Andy210904/LeetCode/tree/master/2411-spiral-matrix-iv) |
