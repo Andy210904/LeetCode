@@ -13,6 +13,7 @@ Codes of all the problems solved
 | [0075-sort-colors](https://github.com/Andy210904/LeetCode/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/Andy210904/LeetCode/tree/master/0090-subsets-ii) |
 | [0152-maximum-product-subarray](https://github.com/Andy210904/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Andy210904/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Andy210904/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Andy210904/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0494-target-sum](https://github.com/Andy210904/LeetCode/tree/master/0494-target-sum) |
@@ -474,6 +475,7 @@ Codes of all the problems solved
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Andy210904/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Andy210904/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Andy210904/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1185-find-in-mountain-array](https://github.com/Andy210904/LeetCode/tree/master/1185-find-in-mountain-array) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Andy210904/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
