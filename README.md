@@ -10,6 +10,7 @@ Codes of all the problems solved
 | [0039-combination-sum](https://github.com/Andy210904/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Andy210904/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Andy210904/LeetCode/tree/master/0051-n-queens) |
+| [0075-sort-colors](https://github.com/Andy210904/LeetCode/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/Andy210904/LeetCode/tree/master/0090-subsets-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Andy210904/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Andy210904/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -364,6 +365,7 @@ Codes of all the problems solved
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Andy210904/LeetCode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Andy210904/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Andy210904/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Andy210904/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -612,6 +614,7 @@ Codes of all the problems solved
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Andy210904/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0075-sort-colors](https://github.com/Andy210904/LeetCode/tree/master/0075-sort-colors) |
 | [0143-reorder-list](https://github.com/Andy210904/LeetCode/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Andy210904/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0295-find-median-from-data-stream](https://github.com/Andy210904/LeetCode/tree/master/0295-find-median-from-data-stream) |
