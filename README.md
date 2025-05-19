@@ -93,6 +93,7 @@ Codes of all the problems solved
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Andy210904/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3227-find-missing-and-repeated-values](https://github.com/Andy210904/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Andy210904/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3321-type-of-triangle](https://github.com/Andy210904/LeetCode/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Andy210904/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Andy210904/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Andy210904/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -279,6 +280,7 @@ Codes of all the problems solved
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Andy210904/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2998-count-symmetric-integers](https://github.com/Andy210904/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/Andy210904/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3321-type-of-triangle](https://github.com/Andy210904/LeetCode/tree/master/3321-type-of-triangle) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Andy210904/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Andy210904/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Number Theory
@@ -383,6 +385,7 @@ Codes of all the problems solved
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Andy210904/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Andy210904/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Andy210904/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3321-type-of-triangle](https://github.com/Andy210904/LeetCode/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/Andy210904/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Andy210904/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Dynamic Programming
