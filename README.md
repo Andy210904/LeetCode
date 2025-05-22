@@ -117,6 +117,7 @@ Codes of all the problems solved
 | [0013-roman-to-integer](https://github.com/Andy210904/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Andy210904/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0347-top-k-frequent-elements](https://github.com/Andy210904/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/Andy210904/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Andy210904/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Andy210904/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0952-word-subsets](https://github.com/Andy210904/LeetCode/tree/master/0952-word-subsets) |
@@ -321,6 +322,7 @@ Codes of all the problems solved
 | [0151-reverse-words-in-a-string](https://github.com/Andy210904/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Andy210904/LeetCode/tree/master/0179-largest-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Andy210904/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0424-longest-repeating-character-replacement](https://github.com/Andy210904/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0539-minimum-time-difference](https://github.com/Andy210904/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0952-word-subsets](https://github.com/Andy210904/LeetCode/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Andy210904/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -476,6 +478,7 @@ Codes of all the problems solved
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Andy210904/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Andy210904/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Andy210904/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Andy210904/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2868-continuous-subarrays](https://github.com/Andy210904/LeetCode/tree/master/2868-continuous-subarrays) |
