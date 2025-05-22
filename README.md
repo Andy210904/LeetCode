@@ -107,6 +107,7 @@ Codes of all the problems solved
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Andy210904/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Andy210904/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3639-zero-array-transformation-i](https://github.com/Andy210904/LeetCode/tree/master/3639-zero-array-transformation-i) |
+| [3647-zero-array-transformation-iii](https://github.com/Andy210904/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Andy210904/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Andy210904/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Hash Table
@@ -391,6 +392,7 @@ Codes of all the problems solved
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Andy210904/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3321-type-of-triangle](https://github.com/Andy210904/LeetCode/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/Andy210904/LeetCode/tree/master/3430-count-days-without-meetings) |
+| [3647-zero-array-transformation-iii](https://github.com/Andy210904/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Andy210904/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Dynamic Programming
 |  |
@@ -443,6 +445,7 @@ Codes of all the problems solved
 | [2465-shifting-letters-ii](https://github.com/Andy210904/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Andy210904/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3639-zero-array-transformation-i](https://github.com/Andy210904/LeetCode/tree/master/3639-zero-array-transformation-i) |
+| [3647-zero-array-transformation-iii](https://github.com/Andy210904/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Trie
 |  |
 | ------- |
@@ -510,6 +513,7 @@ Codes of all the problems solved
 | [2716-prime-subtraction-operation](https://github.com/Andy210904/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Andy210904/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Andy210904/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3647-zero-array-transformation-iii](https://github.com/Andy210904/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -526,6 +530,7 @@ Codes of all the problems solved
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Andy210904/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Andy210904/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Andy210904/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3647-zero-array-transformation-iii](https://github.com/Andy210904/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Backtracking
 |  |
 | ------- |
