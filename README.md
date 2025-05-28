@@ -12,6 +12,7 @@ Codes of all the problems solved
 | [0046-permutations](https://github.com/Andy210904/LeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Andy210904/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Andy210904/LeetCode/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/Andy210904/LeetCode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Andy210904/LeetCode/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/Andy210904/LeetCode/tree/master/0090-subsets-ii) |
 | [0152-maximum-product-subarray](https://github.com/Andy210904/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -250,6 +251,7 @@ Codes of all the problems solved
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Andy210904/LeetCode/tree/master/0054-spiral-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/Andy210904/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/Andy210904/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/Andy210904/LeetCode/tree/master/2145-grid-game) |
@@ -261,6 +263,7 @@ Codes of all the problems solved
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Andy210904/LeetCode/tree/master/0054-spiral-matrix) |
 | [2048-build-array-from-permutation](https://github.com/Andy210904/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Andy210904/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Andy210904/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
