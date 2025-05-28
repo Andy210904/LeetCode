@@ -15,6 +15,7 @@ Codes of all the problems solved
 | [0051-n-queens](https://github.com/Andy210904/LeetCode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Andy210904/LeetCode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Andy210904/LeetCode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Andy210904/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Andy210904/LeetCode/tree/master/0090-subsets-ii) |
 | [0152-maximum-product-subarray](https://github.com/Andy210904/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Andy210904/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -198,6 +199,7 @@ Codes of all the problems solved
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Andy210904/LeetCode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Andy210904/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Andy210904/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Andy210904/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -254,6 +256,7 @@ Codes of all the problems solved
 | ------- |
 | [0048-rotate-image](https://github.com/Andy210904/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Andy210904/LeetCode/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/Andy210904/LeetCode/tree/master/0079-word-search) |
 | [1396-count-servers-that-communicate](https://github.com/Andy210904/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/Andy210904/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/Andy210904/LeetCode/tree/master/2145-grid-game) |
@@ -338,6 +341,7 @@ Codes of all the problems solved
 | [0022-generate-parentheses](https://github.com/Andy210904/LeetCode/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/Andy210904/LeetCode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Andy210904/LeetCode/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/Andy210904/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Andy210904/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Andy210904/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Andy210904/LeetCode/tree/master/0179-largest-number) |
@@ -575,6 +579,7 @@ Codes of all the problems solved
 | [0039-combination-sum](https://github.com/Andy210904/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Andy210904/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Andy210904/LeetCode/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/Andy210904/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Andy210904/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Andy210904/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/Andy210904/LeetCode/tree/master/0494-target-sum) |
