@@ -215,6 +215,7 @@ Codes of all the problems solved
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Andy210904/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Andy210904/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/Andy210904/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/Andy210904/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Andy210904/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Andy210904/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Andy210904/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -666,6 +667,7 @@ Codes of all the problems solved
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Andy210904/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/Andy210904/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Andy210904/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Combinatorics
 |  |
