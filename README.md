@@ -198,6 +198,7 @@ Codes of all the problems solved
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Andy210904/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Andy210904/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Andy210904/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Andy210904/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Andy210904/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Andy210904/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Andy210904/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -222,6 +223,7 @@ Codes of all the problems solved
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Andy210904/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Andy210904/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Andy210904/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Andy210904/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Andy210904/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Andy210904/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Andy210904/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -264,6 +266,7 @@ Codes of all the problems solved
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Andy210904/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Andy210904/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Andy210904/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Andy210904/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Andy210904/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Andy210904/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Andy210904/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -748,6 +751,7 @@ Codes of all the problems solved
 ## String Matching
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Andy210904/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [1524-string-matching-in-an-array](https://github.com/Andy210904/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Andy210904/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Andy210904/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -758,6 +762,7 @@ Codes of all the problems solved
 ## Hash Function
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Andy210904/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Andy210904/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Brainteaser
 |  |
