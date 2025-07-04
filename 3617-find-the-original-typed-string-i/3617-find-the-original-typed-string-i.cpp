@@ -1,18 +1,19 @@
 class Solution {
 public:
     int possibleStringCount(string word) {
-        char fir = word[0];
+        int same = 0;
+        int count = 1;
         int n = word.size();
-        int res = 0;
-        for(int i=1;i<n;i++){
-            int count = 0;
-            while(i<n && word[i] == fir){
-                count++;
-                i++;
+        for(int i = 0; i < n - 1; i++){
+            if(word[i] == word[i + 1]){
+                same++;
             }
-            fir = word[i];
-            res += count;
+            else{
+                count += same;
+                same = 0;
+            }
         }
-        return res+1;
+        count += same;
+        return count;
     }
 };
