@@ -141,6 +141,7 @@ Codes of all the problems solved
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Andy210904/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Andy210904/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0952-word-subsets](https://github.com/Andy210904/LeetCode/tree/master/0952-word-subsets) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Andy210904/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1160-letter-tile-possibilities](https://github.com/Andy210904/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Andy210904/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/Andy210904/LeetCode/tree/master/1256-rank-transform-of-an-array) |
@@ -209,6 +210,7 @@ Codes of all the problems solved
 | [0572-subtree-of-another-tree](https://github.com/Andy210904/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Andy210904/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Andy210904/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Andy210904/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Andy210904/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Andy210904/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Andy210904/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
@@ -238,6 +240,7 @@ Codes of all the problems solved
 | [0572-subtree-of-another-tree](https://github.com/Andy210904/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/Andy210904/LeetCode/tree/master/0733-flood-fill) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Andy210904/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Andy210904/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Andy210904/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Andy210904/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Andy210904/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -261,6 +264,7 @@ Codes of all the problems solved
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Andy210904/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0733-flood-fill](https://github.com/Andy210904/LeetCode/tree/master/0733-flood-fill) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Andy210904/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Andy210904/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Andy210904/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Andy210904/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/Andy210904/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
@@ -291,6 +295,7 @@ Codes of all the problems solved
 | [0572-subtree-of-another-tree](https://github.com/Andy210904/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Andy210904/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Andy210904/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Andy210904/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Andy210904/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Andy210904/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Andy210904/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
@@ -477,6 +482,7 @@ Codes of all the problems solved
 | [0539-minimum-time-difference](https://github.com/Andy210904/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/Andy210904/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Andy210904/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Andy210904/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1256-rank-transform-of-an-array](https://github.com/Andy210904/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Andy210904/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Andy210904/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
