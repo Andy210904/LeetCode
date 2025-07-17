@@ -201,6 +201,7 @@ Codes of all the problems solved
 | [0104-maximum-depth-of-binary-tree](https://github.com/Andy210904/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Andy210904/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Andy210904/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Andy210904/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Andy210904/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Andy210904/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Andy210904/LeetCode/tree/master/0199-binary-tree-right-side-view) |
@@ -232,6 +233,7 @@ Codes of all the problems solved
 | [0101-symmetric-tree](https://github.com/Andy210904/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Andy210904/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Andy210904/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Andy210904/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Andy210904/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Andy210904/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Andy210904/LeetCode/tree/master/0199-binary-tree-right-side-view) |
@@ -289,6 +291,7 @@ Codes of all the problems solved
 | [0104-maximum-depth-of-binary-tree](https://github.com/Andy210904/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Andy210904/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Andy210904/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Andy210904/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Andy210904/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Andy210904/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Andy210904/LeetCode/tree/master/0199-binary-tree-right-side-view) |
@@ -510,6 +513,7 @@ Codes of all the problems solved
 | [0005-longest-palindromic-substring](https://github.com/Andy210904/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Andy210904/LeetCode/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/Andy210904/LeetCode/tree/master/0044-wildcard-matching) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Andy210904/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Andy210904/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Andy210904/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Andy210904/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
