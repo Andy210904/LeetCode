@@ -37,6 +37,7 @@ Codes of all the problems solved
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Andy210904/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0952-word-subsets](https://github.com/Andy210904/LeetCode/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/Andy210904/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
+| [1036-rotting-oranges](https://github.com/Andy210904/LeetCode/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Andy210904/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1063-best-sightseeing-pair](https://github.com/Andy210904/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1185-find-in-mountain-array](https://github.com/Andy210904/LeetCode/tree/master/1185-find-in-mountain-array) |
@@ -293,6 +294,7 @@ Codes of all the problems solved
 | [0733-flood-fill](https://github.com/Andy210904/LeetCode/tree/master/0733-flood-fill) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Andy210904/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Andy210904/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1036-rotting-oranges](https://github.com/Andy210904/LeetCode/tree/master/1036-rotting-oranges) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Andy210904/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Andy210904/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/Andy210904/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
@@ -349,6 +351,7 @@ Codes of all the problems solved
 | [0054-spiral-matrix](https://github.com/Andy210904/LeetCode/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/Andy210904/LeetCode/tree/master/0079-word-search) |
 | [0733-flood-fill](https://github.com/Andy210904/LeetCode/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/Andy210904/LeetCode/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/Andy210904/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/Andy210904/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/Andy210904/LeetCode/tree/master/2145-grid-game) |
