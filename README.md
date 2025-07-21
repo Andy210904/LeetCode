@@ -28,6 +28,7 @@ Codes of all the problems solved
 | [0496-next-greater-element-i](https://github.com/Andy210904/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0539-minimum-time-difference](https://github.com/Andy210904/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Andy210904/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/Andy210904/LeetCode/tree/master/0542-01-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/Andy210904/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Andy210904/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Andy210904/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -289,6 +290,7 @@ Codes of all the problems solved
 | [0226-invert-binary-tree](https://github.com/Andy210904/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Andy210904/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Andy210904/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0542-01-matrix](https://github.com/Andy210904/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Andy210904/LeetCode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Andy210904/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Andy210904/LeetCode/tree/master/0733-flood-fill) |
@@ -350,6 +352,7 @@ Codes of all the problems solved
 | [0048-rotate-image](https://github.com/Andy210904/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Andy210904/LeetCode/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/Andy210904/LeetCode/tree/master/0079-word-search) |
+| [0542-01-matrix](https://github.com/Andy210904/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Andy210904/LeetCode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Andy210904/LeetCode/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/Andy210904/LeetCode/tree/master/1396-count-servers-that-communicate) |
@@ -557,6 +560,7 @@ Codes of all the problems solved
 | [0152-maximum-product-subarray](https://github.com/Andy210904/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Andy210904/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0494-target-sum](https://github.com/Andy210904/LeetCode/tree/master/0494-target-sum) |
+| [0542-01-matrix](https://github.com/Andy210904/LeetCode/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/Andy210904/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Andy210904/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Andy210904/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
