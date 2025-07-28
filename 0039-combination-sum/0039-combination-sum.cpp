@@ -1,23 +1,24 @@
 class Solution {
 public:
-    void combine(vector<int>& candidates, int n, int target, int index, int sum, vector<vector<int>>& res, vector<int>& temp) {
-        if (sum == target) {
+    void backtrack(vector<int>& candidates, int target,int sum,int ind,vector<int> temp,vector<vector<int>>& res){
+        if(ind >= candidates.size() || sum > target){
+            return;
+        }
+        
+        if(sum == target){
             res.push_back(temp);
             return;
         }
-        if (index >= n || sum > target) {
-            return;
-        }
-        temp.push_back(candidates[index]);
-        combine(candidates, n, target, index, sum + candidates[index], res, temp);
+        
+        temp.push_back(candidates[ind]);
+        backtrack(candidates,target,sum+candidates[ind],ind,temp,res);
         temp.pop_back();
-        combine(candidates, n, target, index + 1, sum, res, temp);
+        backtrack(candidates,target,sum,ind+1,temp,res);
     }
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
         vector<vector<int>> res;
         vector<int> temp;
-        int n = candidates.size();
-        combine(candidates, n, target, 0, 0, res, temp);
+        backtrack(candidates,target,0,0,temp,res);
         return res;
     }
 };
