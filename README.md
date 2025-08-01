@@ -420,6 +420,7 @@ Codes of all the problems solved
 | ------- |
 | [0013-roman-to-integer](https://github.com/Andy210904/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Andy210904/LeetCode/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/Andy210904/LeetCode/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Andy210904/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/Andy210904/LeetCode/tree/master/0263-ugly-number) |
 | [0539-minimum-time-difference](https://github.com/Andy210904/LeetCode/tree/master/0539-minimum-time-difference) |
@@ -591,6 +592,7 @@ Codes of all the problems solved
 | [0005-longest-palindromic-substring](https://github.com/Andy210904/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Andy210904/LeetCode/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/Andy210904/LeetCode/tree/master/0044-wildcard-matching) |
+| [0070-climbing-stairs](https://github.com/Andy210904/LeetCode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Andy210904/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Andy210904/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Andy210904/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -628,6 +630,7 @@ Codes of all the problems solved
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Andy210904/LeetCode/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Andy210904/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Andy210904/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Prefix Sum
