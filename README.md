@@ -422,6 +422,7 @@ Codes of all the problems solved
 | ------- |
 | [0013-roman-to-integer](https://github.com/Andy210904/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Andy210904/LeetCode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Andy210904/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Andy210904/LeetCode/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Andy210904/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/Andy210904/LeetCode/tree/master/0263-ugly-number) |
@@ -594,6 +595,7 @@ Codes of all the problems solved
 | [0005-longest-palindromic-substring](https://github.com/Andy210904/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Andy210904/LeetCode/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/Andy210904/LeetCode/tree/master/0044-wildcard-matching) |
+| [0062-unique-paths](https://github.com/Andy210904/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Andy210904/LeetCode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Andy210904/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Andy210904/LeetCode/tree/master/0131-palindrome-partitioning) |
@@ -866,6 +868,7 @@ Codes of all the problems solved
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Andy210904/LeetCode/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Andy210904/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Andy210904/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 ## Enumeration
