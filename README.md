@@ -508,6 +508,7 @@ Codes of all the problems solved
 | [0241-different-ways-to-add-parentheses](https://github.com/Andy210904/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Andy210904/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/Andy210904/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0516-longest-palindromic-subsequence](https://github.com/Andy210904/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0539-minimum-time-difference](https://github.com/Andy210904/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0647-palindromic-substrings](https://github.com/Andy210904/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0952-word-subsets](https://github.com/Andy210904/LeetCode/tree/master/0952-word-subsets) |
@@ -623,6 +624,7 @@ Codes of all the problems solved
 | [0322-coin-change](https://github.com/Andy210904/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Andy210904/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Andy210904/LeetCode/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/Andy210904/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Andy210904/LeetCode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Andy210904/LeetCode/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/Andy210904/LeetCode/tree/master/0647-palindromic-substrings) |
