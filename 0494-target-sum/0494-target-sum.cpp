@@ -1,18 +1,15 @@
 class Solution {
 public:
-    void backtrack(vector<int>& nums, int index, int target, int sum, int& count) {
-        if (index == nums.size()) {
-            if (sum == target) {
-                count++;
-            }
-            return;
+    int backtrack(vector<int>& nums,int ind,int target){
+        if(ind == 0){
+            return (nums[0] == target) + (nums[0] == -target);
         }
-        backtrack(nums, index + 1, target, sum + nums[index], count);
-        backtrack(nums, index + 1, target, sum - nums[index], count);
+        int add = backtrack(nums,ind-1,target-nums[ind]);
+        int sub = backtrack(nums,ind-1,target+nums[ind]);
+        return add+sub;
     }
     int findTargetSumWays(vector<int>& nums, int target) {
-        int count = 0;
-        backtrack(nums, 0, target, 0, count);
-        return count;
+        int n = nums.size();
+        return backtrack(nums,n-1,target);
     }
 };
