@@ -52,6 +52,7 @@ Codes of all the problems solved
 | [0733-flood-fill](https://github.com/Andy210904/LeetCode/tree/master/0733-flood-fill) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Andy210904/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Andy210904/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/Andy210904/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/Andy210904/LeetCode/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Andy210904/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/Andy210904/LeetCode/tree/master/0967-minimum-falling-path-sum) |
@@ -171,6 +172,7 @@ Codes of all the problems solved
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Andy210904/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Andy210904/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Andy210904/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/Andy210904/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/Andy210904/LeetCode/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Andy210904/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Andy210904/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -750,6 +752,7 @@ Codes of all the problems solved
 | [0424-longest-repeating-character-replacement](https://github.com/Andy210904/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/Andy210904/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Andy210904/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0940-fruit-into-baskets](https://github.com/Andy210904/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Andy210904/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Andy210904/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Andy210904/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
