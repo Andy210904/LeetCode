@@ -35,6 +35,7 @@ Codes of all the problems solved
 | [0198-house-robber](https://github.com/Andy210904/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Andy210904/LeetCode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Andy210904/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0300-longest-increasing-subsequence](https://github.com/Andy210904/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Andy210904/LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Andy210904/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/Andy210904/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -647,6 +648,7 @@ Codes of all the problems solved
 | [0198-house-robber](https://github.com/Andy210904/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Andy210904/LeetCode/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Andy210904/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0300-longest-increasing-subsequence](https://github.com/Andy210904/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Andy210904/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Andy210904/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Andy210904/LeetCode/tree/master/0494-target-sum) |
@@ -760,6 +762,7 @@ Codes of all the problems solved
 | [0035-search-insert-position](https://github.com/Andy210904/LeetCode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Andy210904/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/Andy210904/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0300-longest-increasing-subsequence](https://github.com/Andy210904/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Andy210904/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1185-find-in-mountain-array](https://github.com/Andy210904/LeetCode/tree/master/1185-find-in-mountain-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Andy210904/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
