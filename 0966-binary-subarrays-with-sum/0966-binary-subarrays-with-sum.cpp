@@ -1,17 +1,21 @@
 class Solution {
 public:
-    int numSubarraysWithSum(vector<int>& nums, int k) {
-        unordered_map<int,int> pref;
-        int prefsum = 0;
-        int count = 0;
-        pref[0]= 1;
-        for (int i = 0; i < nums.size(); i++) {
-            prefsum += nums[i];
-            if (pref.find(prefsum - k) != pref.end()) {
-                count+=pref[prefsum-k];
+    int givesublessthanequal(vector<int>& nums, int goal) {
+        if (goal < 0) return 0; 
+        int l = 0, r = 0;
+        int sum = 0, count = 0;
+        while (r < nums.size()) {
+            sum += nums[r];
+            while (sum > goal && l <= r) {
+                sum -= nums[l];
+                l++;
             }
-            pref[prefsum]++; 
+            count += (r - l + 1);
+            r++;
         }
         return count;
+    }
+    int numSubarraysWithSum(vector<int>& nums, int goal) {
+        return givesublessthanequal(nums, goal) - givesublessthanequal(nums, goal - 1);
     }
 };
