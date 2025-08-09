@@ -457,6 +457,7 @@ Codes of all the problems solved
 | [0048-rotate-image](https://github.com/Andy210904/LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Andy210904/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Andy210904/LeetCode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/Andy210904/LeetCode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Andy210904/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/Andy210904/LeetCode/tree/master/0263-ugly-number) |
 | [0539-minimum-time-difference](https://github.com/Andy210904/LeetCode/tree/master/0539-minimum-time-difference) |
@@ -496,6 +497,7 @@ Codes of all the problems solved
 | ------- |
 | [0090-subsets-ii](https://github.com/Andy210904/LeetCode/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Andy210904/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/Andy210904/LeetCode/tree/master/0231-power-of-two) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Andy210904/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1940-maximum-xor-for-each-query](https://github.com/Andy210904/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Andy210904/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -692,6 +694,7 @@ Codes of all the problems solved
 | [0025-reverse-nodes-in-k-group](https://github.com/Andy210904/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/Andy210904/LeetCode/tree/master/0044-wildcard-matching) |
 | [0143-reorder-list](https://github.com/Andy210904/LeetCode/tree/master/0143-reorder-list) |
+| [0231-power-of-two](https://github.com/Andy210904/LeetCode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Andy210904/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [2050-count-good-numbers](https://github.com/Andy210904/LeetCode/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Andy210904/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
