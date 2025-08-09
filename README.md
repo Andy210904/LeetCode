@@ -69,6 +69,7 @@ Codes of all the problems solved
 | [1256-rank-transform-of-an-array](https://github.com/Andy210904/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Andy210904/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/Andy210904/LeetCode/tree/master/1364-tuple-with-same-product) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Andy210904/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1396-count-servers-that-communicate](https://github.com/Andy210904/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Andy210904/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1524-string-matching-in-an-array](https://github.com/Andy210904/LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -182,6 +183,7 @@ Codes of all the problems solved
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Andy210904/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/Andy210904/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/Andy210904/LeetCode/tree/master/1364-tuple-with-same-product) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Andy210904/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Andy210904/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1502-construct-k-palindrome-strings](https://github.com/Andy210904/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Andy210904/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -461,6 +463,7 @@ Codes of all the problems solved
 | [0241-different-ways-to-add-parentheses](https://github.com/Andy210904/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/Andy210904/LeetCode/tree/master/0263-ugly-number) |
 | [0539-minimum-time-difference](https://github.com/Andy210904/LeetCode/tree/master/0539-minimum-time-difference) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Andy210904/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Andy210904/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Andy210904/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Andy210904/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -711,6 +714,7 @@ Codes of all the problems solved
 | [0724-find-pivot-index](https://github.com/Andy210904/LeetCode/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/Andy210904/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Andy210904/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Andy210904/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Andy210904/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Andy210904/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Andy210904/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -761,6 +765,7 @@ Codes of all the problems solved
 | [0940-fruit-into-baskets](https://github.com/Andy210904/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Andy210904/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Andy210904/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Andy210904/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Andy210904/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2868-continuous-subarrays](https://github.com/Andy210904/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Andy210904/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
