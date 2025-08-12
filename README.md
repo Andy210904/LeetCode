@@ -11,6 +11,7 @@ Codes of all the problems solved
 | [0035-search-insert-position](https://github.com/Andy210904/LeetCode/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Andy210904/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Andy210904/LeetCode/tree/master/0039-combination-sum) |
+| [0045-jump-game-ii](https://github.com/Andy210904/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Andy210904/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Andy210904/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Andy210904/LeetCode/tree/master/0049-group-anagrams) |
@@ -667,6 +668,7 @@ Codes of all the problems solved
 | [0005-longest-palindromic-substring](https://github.com/Andy210904/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Andy210904/LeetCode/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/Andy210904/LeetCode/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Andy210904/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Andy210904/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Andy210904/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Andy210904/LeetCode/tree/master/0063-unique-paths-ii) |
@@ -828,6 +830,7 @@ Codes of all the problems solved
 | ------- |
 | [0011-container-with-most-water](https://github.com/Andy210904/LeetCode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Andy210904/LeetCode/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Andy210904/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Andy210904/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Andy210904/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/Andy210904/LeetCode/tree/master/0179-largest-number) |
