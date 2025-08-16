@@ -572,6 +572,7 @@ Codes of all the problems solved
 | [0647-palindromic-substrings](https://github.com/Andy210904/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Andy210904/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/Andy210904/LeetCode/tree/master/0721-accounts-merge) |
+| [0812-rotate-string](https://github.com/Andy210904/LeetCode/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/Andy210904/LeetCode/tree/master/0952-word-subsets) |
 | [1078-remove-outermost-parentheses](https://github.com/Andy210904/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Andy210904/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -1047,6 +1048,7 @@ Codes of all the problems solved
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Andy210904/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0812-rotate-string](https://github.com/Andy210904/LeetCode/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/Andy210904/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Andy210904/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Andy210904/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
