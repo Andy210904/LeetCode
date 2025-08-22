@@ -610,6 +610,7 @@ Codes of all the problems solved
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Andy210904/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Andy210904/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Andy210904/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1804-maximum-binary-string-after-change](https://github.com/Andy210904/LeetCode/tree/master/1804-maximum-binary-string-after-change) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Andy210904/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Andy210904/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2032-largest-odd-number-in-string](https://github.com/Andy210904/LeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -880,6 +881,7 @@ Codes of all the problems solved
 | [1448-maximum-69-number](https://github.com/Andy210904/LeetCode/tree/master/1448-maximum-69-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/Andy210904/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Andy210904/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1804-maximum-binary-string-after-change](https://github.com/Andy210904/LeetCode/tree/master/1804-maximum-binary-string-after-change) |
 | [1917-maximum-average-pass-ratio](https://github.com/Andy210904/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2032-largest-odd-number-in-string](https://github.com/Andy210904/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Andy210904/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
