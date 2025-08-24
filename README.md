@@ -43,6 +43,7 @@ Codes of all the problems solved
 | [0200-number-of-islands](https://github.com/Andy210904/LeetCode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Andy210904/LeetCode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Andy210904/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0274-h-index](https://github.com/Andy210904/LeetCode/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/Andy210904/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Andy210904/LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Andy210904/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -683,6 +684,7 @@ Codes of all the problems solved
 | [0179-largest-number](https://github.com/Andy210904/LeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Andy210904/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Andy210904/LeetCode/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/Andy210904/LeetCode/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/Andy210904/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Andy210904/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Andy210904/LeetCode/tree/master/0368-largest-divisible-subset) |
@@ -1169,4 +1171,8 @@ Codes of all the problems solved
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/Andy210904/LeetCode/tree/master/1300-critical-connections-in-a-network) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Andy210904/LeetCode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
