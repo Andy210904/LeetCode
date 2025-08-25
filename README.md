@@ -55,6 +55,7 @@ Codes of all the problems solved
 | [0435-non-overlapping-intervals](https://github.com/Andy210904/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Andy210904/LeetCode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Andy210904/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/Andy210904/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/Andy210904/LeetCode/tree/master/0518-coin-change-ii) |
 | [0539-minimum-time-difference](https://github.com/Andy210904/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Andy210904/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -471,6 +472,7 @@ Codes of all the problems solved
 | [0079-word-search](https://github.com/Andy210904/LeetCode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Andy210904/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Andy210904/LeetCode/tree/master/0200-number-of-islands) |
+| [0498-diagonal-traverse](https://github.com/Andy210904/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/Andy210904/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Andy210904/LeetCode/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/Andy210904/LeetCode/tree/master/0794-swim-in-rising-water) |
@@ -494,6 +496,7 @@ Codes of all the problems solved
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Andy210904/LeetCode/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/Andy210904/LeetCode/tree/master/0498-diagonal-traverse) |
 | [2048-build-array-from-permutation](https://github.com/Andy210904/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Andy210904/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Andy210904/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
