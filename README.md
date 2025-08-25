@@ -7,6 +7,7 @@ Codes of all the problems solved
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Andy210904/LeetCode/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/Andy210904/LeetCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Andy210904/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Andy210904/LeetCode/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Andy210904/LeetCode/tree/master/0037-sudoku-solver) |
@@ -1080,6 +1081,7 @@ Codes of all the problems solved
 | [0005-longest-palindromic-substring](https://github.com/Andy210904/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Andy210904/LeetCode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Andy210904/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/Andy210904/LeetCode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Andy210904/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Andy210904/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Andy210904/LeetCode/tree/master/0088-merge-sorted-array) |
