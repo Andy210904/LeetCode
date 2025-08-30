@@ -120,6 +120,7 @@ Codes of all the problems solved
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Andy210904/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/Andy210904/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2107-find-unique-binary-string](https://github.com/Andy210904/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Andy210904/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Andy210904/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Andy210904/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/Andy210904/LeetCode/tree/master/2145-grid-game) |
@@ -233,6 +234,7 @@ Codes of all the problems solved
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Andy210904/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Andy210904/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/Andy210904/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Andy210904/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Andy210904/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Andy210904/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Andy210904/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -543,6 +545,7 @@ Codes of all the problems solved
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Andy210904/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/Andy210904/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Andy210904/LeetCode/tree/master/2050-count-good-numbers) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Andy210904/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Andy210904/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Andy210904/LeetCode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2448-count-number-of-bad-pairs](https://github.com/Andy210904/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -564,6 +567,7 @@ Codes of all the problems solved
 ## Number Theory
 |  |
 | ------- |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Andy210904/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Andy210904/LeetCode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Andy210904/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/Andy210904/LeetCode/tree/master/2716-prime-subtraction-operation) |
@@ -688,6 +692,7 @@ Codes of all the problems solved
 | [1786-count-the-number-of-consistent-strings](https://github.com/Andy210904/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Andy210904/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Andy210904/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Andy210904/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Andy210904/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Andy210904/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2448-count-number-of-bad-pairs](https://github.com/Andy210904/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
