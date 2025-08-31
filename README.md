@@ -167,6 +167,7 @@ Codes of all the problems solved
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Andy210904/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Andy210904/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Andy210904/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3311-ant-on-the-boundary](https://github.com/Andy210904/LeetCode/tree/master/3311-ant-on-the-boundary) |
 | [3321-type-of-triangle](https://github.com/Andy210904/LeetCode/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Andy210904/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Andy210904/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -520,6 +521,7 @@ Codes of all the problems solved
 | [2551-apply-operations-to-an-array](https://github.com/Andy210904/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Andy210904/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Andy210904/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3311-ant-on-the-boundary](https://github.com/Andy210904/LeetCode/tree/master/3311-ant-on-the-boundary) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Andy210904/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Andy210904/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Andy210904/LeetCode/tree/master/3447-clear-digits) |
@@ -849,6 +851,7 @@ Codes of all the problems solved
 | [2358-number-of-ways-to-split-array](https://github.com/Andy210904/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Andy210904/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Andy210904/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3311-ant-on-the-boundary](https://github.com/Andy210904/LeetCode/tree/master/3311-ant-on-the-boundary) |
 | [3639-zero-array-transformation-i](https://github.com/Andy210904/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Andy210904/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Trie
