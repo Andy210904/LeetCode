@@ -165,6 +165,7 @@ Codes of all the problems solved
 | [3194-find-words-containing-character](https://github.com/Andy210904/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/Andy210904/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Andy210904/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Andy210904/LeetCode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Andy210904/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Andy210904/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Andy210904/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -593,6 +594,7 @@ Codes of all the problems solved
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Andy210904/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2509-minimize-xor](https://github.com/Andy210904/LeetCode/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Andy210904/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Andy210904/LeetCode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Andy210904/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Andy210904/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/Andy210904/LeetCode/tree/master/3394-minimum-array-end) |
