@@ -206,6 +206,7 @@ Codes of all the problems solved
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Andy210904/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/Andy210904/LeetCode/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/Andy210904/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Andy210904/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Andy210904/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Andy210904/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Andy210904/LeetCode/tree/master/0290-word-pattern) |
@@ -544,6 +545,7 @@ Codes of all the problems solved
 | [0062-unique-paths](https://github.com/Andy210904/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Andy210904/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Andy210904/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Andy210904/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Andy210904/LeetCode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Andy210904/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/Andy210904/LeetCode/tree/master/0263-ugly-number) |
@@ -1144,6 +1146,7 @@ Codes of all the problems solved
 | [0151-reverse-words-in-a-string](https://github.com/Andy210904/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Andy210904/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Andy210904/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Andy210904/LeetCode/tree/master/0202-happy-number) |
 | [0295-find-median-from-data-stream](https://github.com/Andy210904/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/Andy210904/LeetCode/tree/master/0392-is-subsequence) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Andy210904/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
