@@ -208,6 +208,7 @@ Codes of all the problems solved
 | [0169-majority-element](https://github.com/Andy210904/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Andy210904/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Andy210904/LeetCode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Andy210904/LeetCode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Andy210904/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Andy210904/LeetCode/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Andy210904/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -628,6 +629,7 @@ Codes of all the problems solved
 | [0205-isomorphic-strings](https://github.com/Andy210904/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Andy210904/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Andy210904/LeetCode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Andy210904/LeetCode/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Andy210904/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0383-ransom-note](https://github.com/Andy210904/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Andy210904/LeetCode/tree/master/0392-is-subsequence) |
