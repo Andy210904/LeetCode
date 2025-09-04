@@ -625,6 +625,7 @@ Codes of all the problems solved
 | [0022-generate-parentheses](https://github.com/Andy210904/LeetCode/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/Andy210904/LeetCode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Andy210904/LeetCode/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/Andy210904/LeetCode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Andy210904/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Andy210904/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Andy210904/LeetCode/tree/master/0079-word-search) |
@@ -1041,6 +1042,7 @@ Codes of all the problems solved
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Andy210904/LeetCode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Andy210904/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Andy210904/LeetCode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Andy210904/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
