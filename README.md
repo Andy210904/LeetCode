@@ -608,6 +608,7 @@ Codes of all the problems solved
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Andy210904/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2509-minimize-xor](https://github.com/Andy210904/LeetCode/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Andy210904/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Andy210904/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Andy210904/LeetCode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Andy210904/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Andy210904/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -1137,6 +1138,7 @@ Codes of all the problems solved
 | [1656-count-good-triplets](https://github.com/Andy210904/LeetCode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Andy210904/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Andy210904/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Andy210904/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2998-count-symmetric-integers](https://github.com/Andy210904/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Andy210904/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Andy210904/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -1193,6 +1195,7 @@ Codes of all the problems solved
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Andy210904/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Andy210904/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Union Find
 |  |
 | ------- |
