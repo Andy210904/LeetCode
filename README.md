@@ -690,6 +690,7 @@ Codes of all the problems solved
 | [2465-shifting-letters-ii](https://github.com/Andy210904/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2580-circular-sentence](https://github.com/Andy210904/LeetCode/tree/master/2580-circular-sentence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Andy210904/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2887-sort-vowels-in-a-string](https://github.com/Andy210904/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Andy210904/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Andy210904/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Andy210904/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -764,6 +765,7 @@ Codes of all the problems solved
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Andy210904/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Andy210904/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Andy210904/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2887-sort-vowels-in-a-string](https://github.com/Andy210904/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Andy210904/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Andy210904/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Andy210904/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
