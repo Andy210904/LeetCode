@@ -197,6 +197,7 @@ Codes of all the problems solved
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Andy210904/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Andy210904/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Andy210904/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3797-design-spreadsheet](https://github.com/Andy210904/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Hash Table
 |  |
 | ------- |
@@ -279,6 +280,7 @@ Codes of all the problems solved
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Andy210904/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Andy210904/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Andy210904/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3797-design-spreadsheet](https://github.com/Andy210904/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Andy210904/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
@@ -528,6 +530,7 @@ Codes of all the problems solved
 | [3227-find-missing-and-repeated-values](https://github.com/Andy210904/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Andy210904/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Andy210904/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3797-design-spreadsheet](https://github.com/Andy210904/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Simulation
 |  |
 | ------- |
@@ -717,6 +720,7 @@ Codes of all the problems solved
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Andy210904/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Andy210904/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Andy210904/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3797-design-spreadsheet](https://github.com/Andy210904/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Andy210904/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
@@ -1120,6 +1124,7 @@ Codes of all the problems solved
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Andy210904/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Andy210904/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Andy210904/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [3797-design-spreadsheet](https://github.com/Andy210904/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Binary Indexed Tree
 |  |
 | ------- |
