@@ -201,6 +201,7 @@ Codes of all the problems solved
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Andy210904/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Andy210904/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3797-design-spreadsheet](https://github.com/Andy210904/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Andy210904/LeetCode/tree/master/3827-implement-router) |
 ## Hash Table
 |  |
 | ------- |
@@ -285,6 +286,7 @@ Codes of all the problems solved
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Andy210904/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Andy210904/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3797-design-spreadsheet](https://github.com/Andy210904/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Andy210904/LeetCode/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Andy210904/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
@@ -982,6 +984,7 @@ Codes of all the problems solved
 | [2716-prime-subtraction-operation](https://github.com/Andy210904/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Andy210904/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Andy210904/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3827-implement-router](https://github.com/Andy210904/LeetCode/tree/master/3827-implement-router) |
 ## Greedy
 |  |
 | ------- |
@@ -1064,10 +1067,12 @@ Codes of all the problems solved
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Andy210904/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [2868-continuous-subarrays](https://github.com/Andy210904/LeetCode/tree/master/2868-continuous-subarrays) |
+| [3827-implement-router](https://github.com/Andy210904/LeetCode/tree/master/3827-implement-router) |
 ## Ordered Set
 |  |
 | ------- |
 | [2868-continuous-subarrays](https://github.com/Andy210904/LeetCode/tree/master/2868-continuous-subarrays) |
+| [3827-implement-router](https://github.com/Andy210904/LeetCode/tree/master/3827-implement-router) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -1133,6 +1138,7 @@ Codes of all the problems solved
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Andy210904/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Andy210904/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [3797-design-spreadsheet](https://github.com/Andy210904/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Andy210904/LeetCode/tree/master/3827-implement-router) |
 ## Binary Indexed Tree
 |  |
 | ------- |
