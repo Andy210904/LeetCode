@@ -14,6 +14,7 @@ Codes of all the problems solved
 | [0036-valid-sudoku](https://github.com/Andy210904/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Andy210904/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Andy210904/LeetCode/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/Andy210904/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Andy210904/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Andy210904/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Andy210904/LeetCode/tree/master/0048-rotate-image) |
@@ -807,6 +808,7 @@ Codes of all the problems solved
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Andy210904/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Andy210904/LeetCode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Andy210904/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Andy210904/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Andy210904/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Andy210904/LeetCode/tree/master/0055-jump-game) |
@@ -1080,6 +1082,7 @@ Codes of all the problems solved
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Andy210904/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Andy210904/LeetCode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Andy210904/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Andy210904/LeetCode/tree/master/0143-reorder-list) |
@@ -1103,6 +1106,7 @@ Codes of all the problems solved
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Andy210904/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Andy210904/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Andy210904/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Andy210904/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -1190,6 +1194,7 @@ Codes of all the problems solved
 | [0011-container-with-most-water](https://github.com/Andy210904/LeetCode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Andy210904/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Andy210904/LeetCode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Andy210904/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Andy210904/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Andy210904/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Andy210904/LeetCode/tree/master/0088-merge-sorted-array) |
