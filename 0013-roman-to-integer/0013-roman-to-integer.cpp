@@ -1,7 +1,6 @@
 class Solution {
 public:
     int romanToInt(string s) {
-        unordered_map<char,int> val;
         int res = 0;
         for(int i=s.size()-1;i>=0;i--){
             if(s[i]=='I'){
