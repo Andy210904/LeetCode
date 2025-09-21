@@ -27,6 +27,7 @@ Codes of all the problems solved
 | [0057-insert-interval](https://github.com/Andy210904/LeetCode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Andy210904/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Andy210904/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0068-text-justification](https://github.com/Andy210904/LeetCode/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/Andy210904/LeetCode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Andy210904/LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Andy210904/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -544,6 +545,7 @@ Codes of all the problems solved
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Andy210904/LeetCode/tree/master/0054-spiral-matrix) |
+| [0068-text-justification](https://github.com/Andy210904/LeetCode/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/Andy210904/LeetCode/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/Andy210904/LeetCode/tree/master/0498-diagonal-traverse) |
 | [2048-build-array-from-permutation](https://github.com/Andy210904/LeetCode/tree/master/2048-build-array-from-permutation) |
@@ -656,6 +658,7 @@ Codes of all the problems solved
 | [0044-wildcard-matching](https://github.com/Andy210904/LeetCode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Andy210904/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Andy210904/LeetCode/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/Andy210904/LeetCode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Andy210904/LeetCode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Andy210904/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Andy210904/LeetCode/tree/master/0076-minimum-window-substring) |
