@@ -208,6 +208,7 @@ Codes of all the problems solved
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Andy210904/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3797-design-spreadsheet](https://github.com/Andy210904/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Andy210904/LeetCode/tree/master/3827-implement-router) |
+| [3928-split-and-merge-array-transformation](https://github.com/Andy210904/LeetCode/tree/master/3928-split-and-merge-array-transformation) |
 ## Hash Table
 |  |
 | ------- |
@@ -297,6 +298,7 @@ Codes of all the problems solved
 | [3797-design-spreadsheet](https://github.com/Andy210904/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Andy210904/LeetCode/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Andy210904/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3928-split-and-merge-array-transformation](https://github.com/Andy210904/LeetCode/tree/master/3928-split-and-merge-array-transformation) |
 ## Linked List
 |  |
 | ------- |
@@ -467,6 +469,7 @@ Codes of all the problems solved
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Andy210904/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Andy210904/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Andy210904/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3928-split-and-merge-array-transformation](https://github.com/Andy210904/LeetCode/tree/master/3928-split-and-merge-array-transformation) |
 ## Binary Tree
 |  |
 | ------- |
