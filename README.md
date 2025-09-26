@@ -110,6 +110,7 @@ Codes of all the problems solved
 | [1370-count-number-of-nice-subarrays](https://github.com/Andy210904/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1396-count-servers-that-communicate](https://github.com/Andy210904/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Andy210904/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1429-verbal-arithmetic-puzzle](https://github.com/Andy210904/LeetCode/tree/master/1429-verbal-arithmetic-puzzle) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Andy210904/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Andy210904/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1524-string-matching-in-an-array](https://github.com/Andy210904/LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -590,6 +591,7 @@ Codes of all the problems solved
 | [0539-minimum-time-difference](https://github.com/Andy210904/LeetCode/tree/master/0539-minimum-time-difference) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Andy210904/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Andy210904/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1429-verbal-arithmetic-puzzle](https://github.com/Andy210904/LeetCode/tree/master/1429-verbal-arithmetic-puzzle) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Andy210904/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Andy210904/LeetCode/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Andy210904/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -707,6 +709,7 @@ Codes of all the problems solved
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Andy210904/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Andy210904/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Andy210904/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1429-verbal-arithmetic-puzzle](https://github.com/Andy210904/LeetCode/tree/master/1429-verbal-arithmetic-puzzle) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Andy210904/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Andy210904/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/Andy210904/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
@@ -1084,6 +1087,7 @@ Codes of all the problems solved
 | [0131-palindrome-partitioning](https://github.com/Andy210904/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/Andy210904/LeetCode/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/Andy210904/LeetCode/tree/master/1160-letter-tile-possibilities) |
+| [1429-verbal-arithmetic-puzzle](https://github.com/Andy210904/LeetCode/tree/master/1429-verbal-arithmetic-puzzle) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Andy210904/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Andy210904/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Andy210904/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
