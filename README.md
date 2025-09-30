@@ -318,6 +318,7 @@ Codes of all the problems solved
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Andy210904/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Andy210904/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Andy210904/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Andy210904/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Andy210904/LeetCode/tree/master/0100-same-tree) |
@@ -476,6 +477,7 @@ Codes of all the problems solved
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Andy210904/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Andy210904/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Andy210904/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Andy210904/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Andy210904/LeetCode/tree/master/0100-same-tree) |
@@ -581,6 +583,7 @@ Codes of all the problems solved
 | [0048-rotate-image](https://github.com/Andy210904/LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Andy210904/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Andy210904/LeetCode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Andy210904/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Andy210904/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/Andy210904/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Andy210904/LeetCode/tree/master/0202-happy-number) |
@@ -846,6 +849,7 @@ Codes of all the problems solved
 | [0064-minimum-path-sum](https://github.com/Andy210904/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Andy210904/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Andy210904/LeetCode/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/Andy210904/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/Andy210904/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Andy210904/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Andy210904/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -1299,6 +1303,7 @@ Codes of all the problems solved
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Andy210904/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Andy210904/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Andy210904/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Andy210904/LeetCode/tree/master/0173-binary-search-tree-iterator) |
