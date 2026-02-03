@@ -205,6 +205,7 @@ Codes of all the problems solved
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Andy210904/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Andy210904/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Andy210904/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3637-trionic-array-i](https://github.com/Andy210904/LeetCode/tree/master/3637-trionic-array-i) |
 | [3639-zero-array-transformation-i](https://github.com/Andy210904/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Andy210904/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Andy210904/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
