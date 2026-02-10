@@ -211,6 +211,7 @@ Codes of all the problems solved
 | [3647-zero-array-transformation-iii](https://github.com/Andy210904/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Andy210904/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Andy210904/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3719-longest-balanced-subarray-i](https://github.com/Andy210904/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Andy210904/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Andy210904/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3797-design-spreadsheet](https://github.com/Andy210904/LeetCode/tree/master/3797-design-spreadsheet) |
@@ -302,6 +303,7 @@ Codes of all the problems solved
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Andy210904/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Andy210904/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Andy210904/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3719-longest-balanced-subarray-i](https://github.com/Andy210904/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Andy210904/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3797-design-spreadsheet](https://github.com/Andy210904/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Andy210904/LeetCode/tree/master/3827-implement-router) |
@@ -964,6 +966,7 @@ Codes of all the problems solved
 | [3311-ant-on-the-boundary](https://github.com/Andy210904/LeetCode/tree/master/3311-ant-on-the-boundary) |
 | [3639-zero-array-transformation-i](https://github.com/Andy210904/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Andy210904/LeetCode/tree/master/3647-zero-array-transformation-iii) |
+| [3719-longest-balanced-subarray-i](https://github.com/Andy210904/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Trie
 |  |
 | ------- |
@@ -1180,6 +1183,7 @@ Codes of all the problems solved
 | [0215-kth-largest-element-in-an-array](https://github.com/Andy210904/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Andy210904/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1382-balance-a-binary-search-tree](https://github.com/Andy210904/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/Andy210904/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Quickselect
 |  |
 | ------- |
@@ -1213,6 +1217,7 @@ Codes of all the problems solved
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Andy210904/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Andy210904/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3719-longest-balanced-subarray-i](https://github.com/Andy210904/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Graph
 |  |
 | ------- |
