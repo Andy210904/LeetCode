@@ -662,6 +662,7 @@ Codes of all the problems solved
 | [0190-reverse-bits](https://github.com/Andy210904/LeetCode/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Andy210904/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Andy210904/LeetCode/tree/master/0231-power-of-two) |
+| [0401-binary-watch](https://github.com/Andy210904/LeetCode/tree/master/0401-binary-watch) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Andy210904/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Andy210904/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1940-maximum-xor-for-each-query](https://github.com/Andy210904/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
@@ -1117,6 +1118,7 @@ Codes of all the problems solved
 | [0079-word-search](https://github.com/Andy210904/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Andy210904/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Andy210904/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0401-binary-watch](https://github.com/Andy210904/LeetCode/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/Andy210904/LeetCode/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/Andy210904/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1429-verbal-arithmetic-puzzle](https://github.com/Andy210904/LeetCode/tree/master/1429-verbal-arithmetic-puzzle) |
