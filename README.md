@@ -663,6 +663,7 @@ Codes of all the problems solved
 | [0222-count-complete-tree-nodes](https://github.com/Andy210904/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Andy210904/LeetCode/tree/master/0231-power-of-two) |
 | [0401-binary-watch](https://github.com/Andy210904/LeetCode/tree/master/0401-binary-watch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Andy210904/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Andy210904/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Andy210904/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1940-maximum-xor-for-each-query](https://github.com/Andy210904/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
