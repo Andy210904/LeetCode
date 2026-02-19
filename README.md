@@ -720,6 +720,7 @@ Codes of all the problems solved
 | [0583-delete-operation-for-two-strings](https://github.com/Andy210904/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/Andy210904/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Andy210904/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0696-count-binary-substrings](https://github.com/Andy210904/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0721-accounts-merge](https://github.com/Andy210904/LeetCode/tree/master/0721-accounts-merge) |
 | [0812-rotate-string](https://github.com/Andy210904/LeetCode/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/Andy210904/LeetCode/tree/master/0952-word-subsets) |
@@ -1283,6 +1284,7 @@ Codes of all the problems solved
 | [0611-valid-triangle-number](https://github.com/Andy210904/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/Andy210904/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Andy210904/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0696-count-binary-substrings](https://github.com/Andy210904/LeetCode/tree/master/0696-count-binary-substrings) |
 | [1129-longest-string-chain](https://github.com/Andy210904/LeetCode/tree/master/1129-longest-string-chain) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Andy210904/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Andy210904/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
