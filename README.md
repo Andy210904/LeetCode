@@ -750,6 +750,7 @@ Codes of all the problems solved
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Andy210904/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Andy210904/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Andy210904/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Andy210904/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Andy210904/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1804-maximum-binary-string-after-change](https://github.com/Andy210904/LeetCode/tree/master/1804-maximum-binary-string-after-change) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Andy210904/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
