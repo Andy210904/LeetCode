@@ -223,6 +223,7 @@ Codes of all the problems solved
 | [3797-design-spreadsheet](https://github.com/Andy210904/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Andy210904/LeetCode/tree/master/3827-implement-router) |
 | [3838-weighted-word-mapping](https://github.com/Andy210904/LeetCode/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Andy210904/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3928-split-and-merge-array-transformation](https://github.com/Andy210904/LeetCode/tree/master/3928-split-and-merge-array-transformation) |
 ## Hash Table
 |  |
@@ -601,6 +602,7 @@ Codes of all the problems solved
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Andy210904/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Andy210904/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3838-weighted-word-mapping](https://github.com/Andy210904/LeetCode/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Andy210904/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
@@ -659,6 +661,7 @@ Codes of all the problems solved
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Andy210904/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Andy210904/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3830-find-closest-person](https://github.com/Andy210904/LeetCode/tree/master/3830-find-closest-person) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Andy210904/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
 | ------- |
@@ -668,6 +671,7 @@ Codes of all the problems solved
 | [2610-closest-prime-numbers-in-range](https://github.com/Andy210904/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/Andy210904/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Andy210904/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Andy210904/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -881,6 +885,7 @@ Codes of all the problems solved
 | [3430-count-days-without-meetings](https://github.com/Andy210904/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3647-zero-array-transformation-iii](https://github.com/Andy210904/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Andy210904/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Andy210904/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1318,6 +1323,7 @@ Codes of all the problems solved
 | [2551-apply-operations-to-an-array](https://github.com/Andy210904/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Andy210904/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Andy210904/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Andy210904/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Data Stream
 |  |
 | ------- |
