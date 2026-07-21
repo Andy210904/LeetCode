@@ -801,6 +801,7 @@ Codes of all the problems solved
 | [3447-clear-digits](https://github.com/Andy210904/LeetCode/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Andy210904/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/Andy210904/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Andy210904/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/Andy210904/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Andy210904/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Andy210904/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -1293,6 +1294,7 @@ Codes of all the problems solved
 | [2998-count-symmetric-integers](https://github.com/Andy210904/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Andy210904/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Andy210904/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Andy210904/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Andy210904/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Two Pointers
 |  |
