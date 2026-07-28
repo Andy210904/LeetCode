@@ -804,6 +804,7 @@ Codes of all the problems solved
 | [3455-minimum-length-of-string-after-operations](https://github.com/Andy210904/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/Andy210904/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Andy210904/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Andy210904/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/Andy210904/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Andy210904/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Andy210904/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -890,6 +891,7 @@ Codes of all the problems solved
 | [3321-type-of-triangle](https://github.com/Andy210904/LeetCode/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Andy210904/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/Andy210904/LeetCode/tree/master/3430-count-days-without-meetings) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Andy210904/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Andy210904/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Andy210904/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Andy210904/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -1423,6 +1425,7 @@ Codes of all the problems solved
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Andy210904/LeetCode/tree/master/0274-h-index) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Andy210904/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Game Theory
 |  |
 | ------- |
