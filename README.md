@@ -66,6 +66,7 @@ Codes of all the problems solved
 | [0380-insert-delete-getrandom-o1](https://github.com/Andy210904/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0416-partition-equal-subset-sum](https://github.com/Andy210904/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Andy210904/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/Andy210904/LeetCode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Andy210904/LeetCode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Andy210904/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Andy210904/LeetCode/tree/master/0498-diagonal-traverse) |
@@ -623,6 +624,7 @@ Codes of all the problems solved
 | [0326-power-of-three](https://github.com/Andy210904/LeetCode/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/Andy210904/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Andy210904/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0486-predict-the-winner](https://github.com/Andy210904/LeetCode/tree/master/0486-predict-the-winner) |
 | [0539-minimum-time-difference](https://github.com/Andy210904/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Andy210904/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Andy210904/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -928,6 +930,7 @@ Codes of all the problems solved
 | [0392-is-subsequence](https://github.com/Andy210904/LeetCode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Andy210904/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Andy210904/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/Andy210904/LeetCode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Andy210904/LeetCode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Andy210904/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Andy210904/LeetCode/tree/master/0518-coin-change-ii) |
@@ -972,6 +975,7 @@ Codes of all the problems solved
 | [0231-power-of-two](https://github.com/Andy210904/LeetCode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Andy210904/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/Andy210904/LeetCode/tree/master/0326-power-of-three) |
+| [0486-predict-the-winner](https://github.com/Andy210904/LeetCode/tree/master/0486-predict-the-winner) |
 | [2050-count-good-numbers](https://github.com/Andy210904/LeetCode/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Andy210904/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Memoization
@@ -1429,6 +1433,7 @@ Codes of all the problems solved
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Andy210904/LeetCode/tree/master/0486-predict-the-winner) |
 | [3462-vowels-game-in-a-string](https://github.com/Andy210904/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Randomized
 |  |
