@@ -185,6 +185,7 @@ Codes of all the problems solved
 | [2868-continuous-subarrays](https://github.com/Andy210904/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Andy210904/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Andy210904/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Andy210904/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Andy210904/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Andy210904/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Andy210904/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -305,6 +306,7 @@ Codes of all the problems solved
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Andy210904/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Andy210904/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Andy210904/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Andy210904/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3227-find-missing-and-repeated-values](https://github.com/Andy210904/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Andy210904/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Andy210904/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -1060,6 +1062,7 @@ Codes of all the problems solved
 | [2626-count-the-number-of-good-subarrays](https://github.com/Andy210904/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2868-continuous-subarrays](https://github.com/Andy210904/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Andy210904/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Andy210904/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Andy210904/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3483-alternating-groups-ii](https://github.com/Andy210904/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Andy210904/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
