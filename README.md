@@ -154,6 +154,7 @@ Codes of all the problems solved
 | [2145-grid-game](https://github.com/Andy210904/LeetCode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Andy210904/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Andy210904/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Andy210904/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Andy210904/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Andy210904/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2262-solving-questions-with-brainpower](https://github.com/Andy210904/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
@@ -786,6 +787,7 @@ Codes of all the problems solved
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Andy210904/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/Andy210904/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Andy210904/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Andy210904/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Andy210904/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Andy210904/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Andy210904/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -1186,6 +1188,7 @@ Codes of all the problems solved
 ## Ordered Set
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Andy210904/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2868-continuous-subarrays](https://github.com/Andy210904/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3827-implement-router](https://github.com/Andy210904/LeetCode/tree/master/3827-implement-router) |
 ## Monotonic Queue
@@ -1269,6 +1272,7 @@ Codes of all the problems solved
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Andy210904/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Andy210904/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Andy210904/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3719-longest-balanced-subarray-i](https://github.com/Andy210904/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Graph
