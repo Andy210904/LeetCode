@@ -146,6 +146,7 @@ Codes of all the problems solved
 | [1940-maximum-xor-for-each-query](https://github.com/Andy210904/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Andy210904/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Andy210904/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2029-stone-game-ix](https://github.com/Andy210904/LeetCode/tree/master/2029-stone-game-ix) |
 | [2048-build-array-from-permutation](https://github.com/Andy210904/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2107-find-unique-binary-string](https://github.com/Andy210904/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Andy210904/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
@@ -643,6 +644,7 @@ Codes of all the problems solved
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Andy210904/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Andy210904/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Andy210904/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2029-stone-game-ix](https://github.com/Andy210904/LeetCode/tree/master/2029-stone-game-ix) |
 | [2032-largest-odd-number-in-string](https://github.com/Andy210904/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Andy210904/LeetCode/tree/master/2050-count-good-numbers) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Andy210904/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
@@ -840,6 +842,7 @@ Codes of all the problems solved
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Andy210904/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Andy210904/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Andy210904/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2029-stone-game-ix](https://github.com/Andy210904/LeetCode/tree/master/2029-stone-game-ix) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Andy210904/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Andy210904/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Andy210904/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -1117,6 +1120,7 @@ Codes of all the problems solved
 | [1804-maximum-binary-string-after-change](https://github.com/Andy210904/LeetCode/tree/master/1804-maximum-binary-string-after-change) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Andy210904/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1917-maximum-average-pass-ratio](https://github.com/Andy210904/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [2029-stone-game-ix](https://github.com/Andy210904/LeetCode/tree/master/2029-stone-game-ix) |
 | [2032-largest-odd-number-in-string](https://github.com/Andy210904/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Andy210904/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Andy210904/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -1441,9 +1445,22 @@ Codes of all the problems solved
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Andy210904/LeetCode/tree/master/0486-predict-the-winner) |
+| [2029-stone-game-ix](https://github.com/Andy210904/LeetCode/tree/master/2029-stone-game-ix) |
 | [3462-vowels-game-in-a-string](https://github.com/Andy210904/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Randomized
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Andy210904/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Andy210904/LeetCode/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Andy210904/LeetCode/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Andy210904/LeetCode/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
