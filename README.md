@@ -189,6 +189,7 @@ Codes of all the problems solved
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Andy210904/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Andy210904/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Andy210904/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Andy210904/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Andy210904/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Andy210904/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Andy210904/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -603,6 +604,7 @@ Codes of all the problems solved
 | [2551-apply-operations-to-an-array](https://github.com/Andy210904/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Andy210904/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Andy210904/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Andy210904/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3311-ant-on-the-boundary](https://github.com/Andy210904/LeetCode/tree/master/3311-ant-on-the-boundary) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Andy210904/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3379-transformed-array](https://github.com/Andy210904/LeetCode/tree/master/3379-transformed-array) |
