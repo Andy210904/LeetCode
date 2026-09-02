@@ -232,6 +232,7 @@ Codes of all the problems solved
 | [3827-implement-router](https://github.com/Andy210904/LeetCode/tree/master/3827-implement-router) |
 | [3838-weighted-word-mapping](https://github.com/Andy210904/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Andy210904/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Andy210904/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3928-split-and-merge-array-transformation](https://github.com/Andy210904/LeetCode/tree/master/3928-split-and-merge-array-transformation) |
 ## Hash Table
 |  |
@@ -678,6 +679,7 @@ Codes of all the problems solved
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Andy210904/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3830-find-closest-person](https://github.com/Andy210904/LeetCode/tree/master/3830-find-closest-person) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Andy210904/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Andy210904/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Number Theory
 |  |
 | ------- |
