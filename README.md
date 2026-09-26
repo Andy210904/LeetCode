@@ -135,6 +135,7 @@ Codes of all the problems solved
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Andy210904/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1753-path-with-minimum-effort](https://github.com/Andy210904/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Andy210904/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Andy210904/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Andy210904/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1830-count-good-meals](https://github.com/Andy210904/LeetCode/tree/master/1830-count-good-meals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Andy210904/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -294,6 +295,7 @@ Codes of all the problems solved
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Andy210904/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1694-make-sum-divisible-by-p](https://github.com/Andy210904/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Andy210904/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Andy210904/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1830-count-good-meals](https://github.com/Andy210904/LeetCode/tree/master/1830-count-good-meals) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Andy210904/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Andy210904/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -794,6 +796,7 @@ Codes of all the problems solved
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Andy210904/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Andy210904/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1804-maximum-binary-string-after-change](https://github.com/Andy210904/LeetCode/tree/master/1804-maximum-binary-string-after-change) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Andy210904/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Andy210904/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Andy210904/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Andy210904/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
