@@ -770,6 +770,7 @@ Codes of all the problems solved
 | [0696-count-binary-substrings](https://github.com/Andy210904/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0721-accounts-merge](https://github.com/Andy210904/LeetCode/tree/master/0721-accounts-merge) |
 | [0812-rotate-string](https://github.com/Andy210904/LeetCode/tree/master/0812-rotate-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Andy210904/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0952-word-subsets](https://github.com/Andy210904/LeetCode/tree/master/0952-word-subsets) |
 | [1006-vowel-spellchecker](https://github.com/Andy210904/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1078-remove-outermost-parentheses](https://github.com/Andy210904/LeetCode/tree/master/1078-remove-outermost-parentheses) |
@@ -1133,6 +1134,7 @@ Codes of all the problems solved
 | [0611-valid-triangle-number](https://github.com/Andy210904/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0678-valid-parenthesis-string](https://github.com/Andy210904/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Andy210904/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Andy210904/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1382-balance-a-binary-search-tree](https://github.com/Andy210904/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-maximum-69-number](https://github.com/Andy210904/LeetCode/tree/master/1448-maximum-69-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/Andy210904/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
@@ -1235,6 +1237,7 @@ Codes of all the problems solved
 | [0496-next-greater-element-i](https://github.com/Andy210904/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Andy210904/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Andy210904/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Andy210904/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Andy210904/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/Andy210904/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Andy210904/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -1493,5 +1496,6 @@ Codes of all the problems solved
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Andy210904/LeetCode/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Andy210904/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Andy210904/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
