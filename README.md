@@ -775,6 +775,7 @@ Codes of all the problems solved
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Andy210904/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0952-word-subsets](https://github.com/Andy210904/LeetCode/tree/master/0952-word-subsets) |
 | [1006-vowel-spellchecker](https://github.com/Andy210904/LeetCode/tree/master/1006-vowel-spellchecker) |
+| [1021-remove-outermost-parentheses](https://github.com/Andy210904/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/Andy210904/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Andy210904/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1129-longest-string-chain](https://github.com/Andy210904/LeetCode/tree/master/1129-longest-string-chain) |
@@ -1241,6 +1242,7 @@ Codes of all the problems solved
 | [0678-valid-parenthesis-string](https://github.com/Andy210904/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Andy210904/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Andy210904/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Andy210904/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Andy210904/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/Andy210904/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Andy210904/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -1500,5 +1502,6 @@ Codes of all the problems solved
 | ------- |
 | [0020-valid-parentheses](https://github.com/Andy210904/LeetCode/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Andy210904/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Andy210904/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Andy210904/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
