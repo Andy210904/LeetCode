@@ -795,6 +795,7 @@ Codes of all the problems solved
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Andy210904/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/Andy210904/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Andy210904/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Andy210904/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Andy210904/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Andy210904/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Andy210904/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -1142,6 +1143,7 @@ Codes of all the problems solved
 | [1448-maximum-69-number](https://github.com/Andy210904/LeetCode/tree/master/1448-maximum-69-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/Andy210904/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Andy210904/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Andy210904/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1804-maximum-binary-string-after-change](https://github.com/Andy210904/LeetCode/tree/master/1804-maximum-binary-string-after-change) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Andy210904/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1917-maximum-average-pass-ratio](https://github.com/Andy210904/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
@@ -1245,6 +1247,7 @@ Codes of all the problems solved
 | [1021-remove-outermost-parentheses](https://github.com/Andy210904/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Andy210904/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/Andy210904/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Andy210904/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Andy210904/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Andy210904/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Andy210904/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -1503,5 +1506,6 @@ Codes of all the problems solved
 | [0020-valid-parentheses](https://github.com/Andy210904/LeetCode/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Andy210904/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Andy210904/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Andy210904/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Andy210904/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
