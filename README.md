@@ -240,6 +240,7 @@ Codes of all the problems solved
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Andy210904/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Andy210904/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3928-split-and-merge-array-transformation](https://github.com/Andy210904/LeetCode/tree/master/3928-split-and-merge-array-transformation) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Andy210904/LeetCode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
 | ------- |
