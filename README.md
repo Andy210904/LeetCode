@@ -611,6 +611,7 @@ Codes of all the problems solved
 | [1642-water-bottles](https://github.com/Andy210904/LeetCode/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/Andy210904/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Andy210904/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Andy210904/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Andy210904/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Andy210904/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Andy210904/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
@@ -823,6 +824,7 @@ Codes of all the problems solved
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Andy210904/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Andy210904/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Andy210904/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Andy210904/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Andy210904/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Andy210904/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Andy210904/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
