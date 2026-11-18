@@ -834,6 +834,7 @@ Codes of all the problems solved
 | [2580-circular-sentence](https://github.com/Andy210904/LeetCode/tree/master/2580-circular-sentence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Andy210904/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2887-sort-vowels-in-a-string](https://github.com/Andy210904/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Andy210904/LeetCode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Andy210904/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Andy210904/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Andy210904/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
